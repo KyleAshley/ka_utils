@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC  -std=c++11 -Wall -Wextra -pedantic  -shared -Wl,-soname,libutils.so -o ../lib/libutils.so CMakeFiles/utils.dir/src/utils.cpp.o 

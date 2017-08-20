@@ -1,2 +1,0 @@
-/home/kyle/Dropbox/code_practice/ka_utils/build/CMakeFiles/test_utils.dir
-/home/kyle/Dropbox/code_practice/ka_utils/build/CMakeFiles/utils.dir

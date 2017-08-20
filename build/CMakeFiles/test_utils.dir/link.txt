@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -Wall -Wextra -pedantic   CMakeFiles/test_utils.dir/src/test_utils.cpp.o  -o ../bin/test_utils -rdynamic ../lib/libutils.so -Wl,-rpath,/home/kyle/Dropbox/code_practice/ka_utils/lib 

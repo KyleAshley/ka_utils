@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.h
+stdio.h
+../include/stdio.h
+stdlib.h
+../include/stdlib.h
+string.h
+../include/string.h
+string
+-
+cstring
+-
+iostream
+-
+ctype.h
+-
+
+/home/kyle/Dropbox/code_practice/ka_utils/src/utils.cpp
+utils.h
+/home/kyle/Dropbox/code_practice/ka_utils/src/utils.h
+
